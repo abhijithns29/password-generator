@@ -1,0 +1,54 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(252, 249, 246, 0.692);
+}
+
+h1{
+   
+    font-size: 3.5rem;
+}
+#container{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.347);
+  padding: 10px;
+
+}
+#form{
+    margin: auto;
+    width:50%;
+}
+#Length{
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+    border-style: solid rgba(122, 122, 122, 0.851);  
+    border-radius: 100px;  width:50% ;
+
+}
+input{
+    margin-top: 15px;
+}
+label{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#inclab{
+    text-align: center;
+  
+   
+}
+button{
+    font-size: 1.5rem;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: aliceblue;
+    background-color: hsl(210, 81%, 42%);
+}
+button:hover{
+    background-color:hsl(210, 90%, 59%) ;
+}
